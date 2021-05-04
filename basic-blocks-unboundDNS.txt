@@ -1,0 +1,13 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title: SchulTech - Basic Blocklist List
+# Version:Fri, 12 Jun 2020 21:24:09 +0000
+# Expires: 1 day
+# Homepage: https://github.com/SchulTech
+# License: No License
+# Total number of network filters: 
+#------------------------------------[SUPPORT]-------------------------------------
+# Unbound DNS Basic School Blocklist
+#------------------------------------[FILTERS]-------------------------------------
+web.whatsapp.com
+whatsapp.com
+whatsapp.net
